@@ -1,6 +1,6 @@
 {
   "name": "ra_m3u",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "main": "ra_m3u.js",
   "license": "GPL-3.0-or-later",
   "dependencies": {
