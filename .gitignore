@@ -160,3 +160,7 @@ dist
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode
+
+ra_m3u-linux
+ra_m3u-win.exe
+ra_m3u-macos
